@@ -10,7 +10,10 @@ OBJS =	edge.o			\
 	tuple_set.o		\
 	tuple_util.o		\
 	vertex.o		\
-	vertexid.o
+	vertexid.o      \
+	union_find.o    \
+	quick_sort.o    \
+	ArrayList.o
 
 TGT = libdb.a
 
